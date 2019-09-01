@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567363888 source:/home/jcdev/Documentos/C/Exercicios de logica/Lista 5/UNIP_L5.1EX01/main.c
+	<stdio.h>
+	<stdlib.h>
+
